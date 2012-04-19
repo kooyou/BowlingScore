@@ -1,0 +1,7 @@
+F:\VS2010C#文件\BowlingScoring\BowlingScoringTest\obj\Debug\ResolveAssemblyReference.cache
+F:\VS2010C#文件\BowlingScoring\BowlingScoringTest\bin\Debug\BowlingScoringTest.dll
+F:\VS2010C#文件\BowlingScoring\BowlingScoringTest\bin\Debug\BowlingScoringTest.pdb
+F:\VS2010C#文件\BowlingScoring\BowlingScoringTest\obj\Debug\BowlingScoringTest.dll
+F:\VS2010C#文件\BowlingScoring\BowlingScoringTest\obj\Debug\BowlingScoringTest.pdb
+F:\VS2010C#文件\BowlingScoring\BowlingScoringTest\bin\Debug\BowlingScoring.exe
+F:\VS2010C#文件\BowlingScoring\BowlingScoringTest\bin\Debug\BowlingScoring.pdb
